@@ -12,6 +12,8 @@ A deep learning based unsupervised stain color deconvolution algorithm
 
 ## Files
 
+_You can use https://nbviewer.jupyter.org/ and paste the .ipynb link into it if Girhub does not render the file properly_
+
 ### To train deconvGAN
 
 1\) Train deconv-GAN-512-40X wo-GAN.ipynb
